@@ -1,0 +1,13 @@
+{
+    "name": "adityafullstackdeveloper/php_paypal",
+    "authors": [
+        {
+            "name": "adityafullstackdeveloper",
+            "email": "adityafullstackdeveloper@hotmail.com"
+        }
+    ],
+    "require": {
+        "league/omnipay": "^3.0",
+        "omnipay/PayPal": "^3.0"
+    }
+}
